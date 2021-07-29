@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7264F84623A801D000AFD85F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7264F84523A801D000AFD85F /* main.cpp */; };
+		7264F84623A801D000AFD85F /* CECS328_EC3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7264F84523A801D000AFD85F /* CECS328_EC3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7264F84223A801D000AFD85F /* EC3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EC3; sourceTree = BUILT_PRODUCTS_DIR; };
-		7264F84523A801D000AFD85F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7264F84523A801D000AFD85F /* CECS328_EC3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CECS328_EC3.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		7264F84423A801D000AFD85F /* EC3 */ = {
 			isa = PBXGroup;
 			children = (
-				7264F84523A801D000AFD85F /* main.cpp */,
+				7264F84523A801D000AFD85F /* CECS328_EC3.cpp */,
 			);
 			path = EC3;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7264F84623A801D000AFD85F /* main.cpp in Sources */,
+				7264F84623A801D000AFD85F /* CECS328_EC3.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
